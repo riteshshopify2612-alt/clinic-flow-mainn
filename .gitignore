@@ -15,6 +15,7 @@ dist
 dist-ssr
 .output
 .vercel
+supabase/.temp/
 .vinxi
 .tanstack/**
 .nitro
